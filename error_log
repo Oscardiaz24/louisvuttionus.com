@@ -1,0 +1,180 @@
+[06-Nov-2023 13:47:28 America/Boise] PHP Warning:  Undefined variable $found in /home4/kooldesi/public_html/kooldev2luis/action.php on line 78
+[06-Nov-2023 14:08:19 America/Boise] PHP Fatal error:  Uncaught TypeError: json_decode(): Argument #1 ($json) must be of type string, array given in /home4/kooldesi/public_html/kooldev2luis/save_order.php:9
+Stack trace:
+#0 /home4/kooldesi/public_html/kooldev2luis/save_order.php(9): json_decode(Array, true)
+#1 {main}
+  thrown in /home4/kooldesi/public_html/kooldev2luis/save_order.php on line 9
+[06-Nov-2023 14:17:02 America/Boise] PHP Fatal error:  Uncaught TypeError: json_decode(): Argument #1 ($json) must be of type string, array given in /home4/kooldesi/public_html/kooldev2luis/save_order.php:9
+Stack trace:
+#0 /home4/kooldesi/public_html/kooldev2luis/save_order.php(9): json_decode(Array, true)
+#1 {main}
+  thrown in /home4/kooldesi/public_html/kooldev2luis/save_order.php on line 9
+[14-Nov-2023 05:15:10 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[14-Nov-2023 05:15:10 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[14-Nov-2023 05:15:14 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[14-Nov-2023 05:15:27 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[14-Nov-2023 05:15:28 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[14-Nov-2023 07:01:49 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[14-Nov-2023 19:33:37 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[14-Nov-2023 19:33:38 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[14-Nov-2023 19:33:38 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[14-Nov-2023 19:33:38 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[14-Nov-2023 19:33:40 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[14-Nov-2023 19:33:43 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[14-Nov-2023 19:33:44 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[14-Nov-2023 19:33:44 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[14-Nov-2023 19:33:46 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[14-Nov-2023 19:39:07 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[14-Nov-2023 19:39:08 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[14-Nov-2023 19:42:40 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[14-Nov-2023 19:42:42 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[14-Nov-2023 19:42:48 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[14-Nov-2023 19:42:49 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[14-Nov-2023 19:42:49 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[14-Nov-2023 19:42:51 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[14-Nov-2023 19:42:52 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[14-Nov-2023 19:42:52 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[14-Nov-2023 19:42:52 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[14-Nov-2023 19:42:53 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[14-Nov-2023 19:42:54 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[14-Nov-2023 19:42:55 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[14-Nov-2023 19:42:55 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[14-Nov-2023 19:42:56 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[14-Nov-2023 19:42:56 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[14-Nov-2023 19:42:58 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[14-Nov-2023 19:42:58 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[14-Nov-2023 19:43:01 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[14-Nov-2023 19:43:29 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[14-Nov-2023 19:43:38 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[14-Nov-2023 19:43:38 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[14-Nov-2023 19:43:41 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[14-Nov-2023 19:43:43 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[14-Nov-2023 19:43:44 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[14-Nov-2023 19:43:44 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[14-Nov-2023 19:43:44 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[14-Nov-2023 19:43:45 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[14-Nov-2023 19:43:45 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[14-Nov-2023 19:43:45 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[14-Nov-2023 19:43:45 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[14-Nov-2023 19:43:45 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[14-Nov-2023 19:43:46 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[14-Nov-2023 19:43:46 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[14-Nov-2023 19:43:47 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[14-Nov-2023 19:43:48 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[14-Nov-2023 19:44:29 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[14-Nov-2023 19:54:12 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[14-Nov-2023 19:54:12 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[14-Nov-2023 19:54:12 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[14-Nov-2023 19:54:14 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[14-Nov-2023 19:54:14 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[14-Nov-2023 19:54:15 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[14-Nov-2023 19:54:15 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[14-Nov-2023 19:54:16 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[14-Nov-2023 20:02:11 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[14-Nov-2023 20:02:11 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[14-Nov-2023 20:02:11 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[14-Nov-2023 20:02:11 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[14-Nov-2023 20:02:12 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[14-Nov-2023 20:02:14 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[14-Nov-2023 20:02:16 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[14-Nov-2023 20:02:26 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[14-Nov-2023 20:02:26 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[14-Nov-2023 20:02:27 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[14-Nov-2023 20:02:32 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[14-Nov-2023 20:02:40 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[14-Nov-2023 20:02:40 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[14-Nov-2023 20:57:54 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[14-Nov-2023 20:57:54 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[14-Nov-2023 20:57:54 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[14-Nov-2023 20:57:55 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[14-Nov-2023 20:57:55 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[14-Nov-2023 20:57:56 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[14-Nov-2023 20:57:56 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[14-Nov-2023 20:57:57 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[14-Nov-2023 20:57:57 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[14-Nov-2023 20:57:58 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[14-Nov-2023 20:57:59 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[14-Nov-2023 20:57:59 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[14-Nov-2023 20:57:59 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[14-Nov-2023 20:58:02 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[15-Nov-2023 01:45:29 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[15-Nov-2023 01:45:30 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[15-Nov-2023 01:45:32 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[15-Nov-2023 01:45:32 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[15-Nov-2023 01:45:32 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[15-Nov-2023 01:45:33 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[15-Nov-2023 01:46:12 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[15-Nov-2023 01:46:12 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[15-Nov-2023 01:46:13 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[15-Nov-2023 01:46:18 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[15-Nov-2023 01:46:18 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[15-Nov-2023 01:46:19 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[15-Nov-2023 01:46:22 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[15-Nov-2023 01:46:25 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[15-Nov-2023 01:46:41 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[15-Nov-2023 01:46:42 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[15-Nov-2023 01:47:41 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[15-Nov-2023 01:47:49 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[15-Nov-2023 01:47:49 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[15-Nov-2023 01:47:56 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[15-Nov-2023 01:47:56 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[15-Nov-2023 01:52:39 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[15-Nov-2023 01:52:40 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[15-Nov-2023 01:52:42 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[15-Nov-2023 01:52:53 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[15-Nov-2023 01:52:55 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[15-Nov-2023 01:52:56 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[15-Nov-2023 01:52:59 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/kooldesi/public_html/kooldev2luis/get_product_diff_img.php on line 3
+[15-Nov-2023 01:55:28 America/Boise] PHP Warning:  Undefined variable $found in /home4/kooldesi/public_html/kooldev2luis/action.php on line 78
+[15-Nov-2023 01:55:55 America/Boise] PHP Warning:  Undefined variable $found in /home4/kooldesi/public_html/kooldev2luis/update_prodetail.php on line 28
+[15-Nov-2023 01:58:05 America/Boise] PHP Warning:  Undefined variable $found in /home4/kooldesi/public_html/kooldev2luis/update_prodetail.php on line 28
+[15-Nov-2023 01:59:06 America/Boise] PHP Warning:  Undefined variable $found in /home4/kooldesi/public_html/kooldev2luis/update_prodetail.php on line 28
+[15-Nov-2023 21:15:44 America/Boise] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home4/kooldesi/public_html/kooldev2luis/save_order.php on line 41
+[18-Nov-2023 18:53:01 America/Boise] PHP Parse error:  Unclosed '{' on line 50 in /home4/kooldesi/public_html/kooldev2luis/save_order.php on line 265
+[18-Nov-2023 18:53:16 America/Boise] PHP Parse error:  Unclosed '{' on line 50 in /home4/kooldesi/public_html/kooldev2luis/save_order.php on line 265
+[18-Nov-2023 18:55:14 America/Boise] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home4/kooldesi/public_html/kooldev2luis/save_order.php on line 26
+[18-Nov-2023 18:55:58 America/Boise] PHP Parse error:  Unclosed '{' on line 112 in /home4/kooldesi/public_html/kooldev2luis/save_order.php on line 327
+[18-Nov-2023 18:56:46 America/Boise] PHP Parse error:  Unclosed '{' on line 114 in /home4/kooldesi/public_html/kooldev2luis/save_order.php on line 329
+[18-Nov-2023 18:57:19 America/Boise] PHP Parse error:  Unclosed '{' on line 114 in /home4/kooldesi/public_html/kooldev2luis/save_order.php on line 329
+[18-Nov-2023 19:00:05 America/Boise] PHP Parse error:  Unclosed '{' on line 116 in /home4/kooldesi/public_html/kooldev2luis/save_order.php on line 331
+[18-Nov-2023 19:00:41 America/Boise] PHP Parse error:  Unclosed '{' on line 114 in /home4/kooldesi/public_html/kooldev2luis/save_order.php on line 329
+[18-Nov-2023 19:01:30 America/Boise] PHP Parse error:  Unclosed '{' on line 114 in /home4/kooldesi/public_html/kooldev2luis/save_order.php on line 329
+[18-Nov-2023 19:01:46 America/Boise] PHP Parse error:  Unclosed '{' on line 114 in /home4/kooldesi/public_html/kooldev2luis/save_order.php on line 329
+[18-Nov-2023 19:02:00 America/Boise] PHP Parse error:  Unclosed '{' on line 114 in /home4/kooldesi/public_html/kooldev2luis/save_order.php on line 329
+[18-Nov-2023 19:02:35 America/Boise] PHP Parse error:  Unclosed '{' on line 114 in /home4/kooldesi/public_html/kooldev2luis/save_order.php on line 329
+[18-Nov-2023 19:05:50 America/Boise] PHP Warning:  Undefined variable $paid_amount in /home4/kooldesi/public_html/kooldev2luis/save_order.php on line 110
+[18-Nov-2023 19:05:50 America/Boise] PHP Warning:  Undefined variable $shipping_address_1 in /home4/kooldesi/public_html/kooldev2luis/save_order.php on line 110
+[18-Nov-2023 19:05:50 America/Boise] PHP Warning:  Undefined variable $shipping_address_2 in /home4/kooldesi/public_html/kooldev2luis/save_order.php on line 110
+[18-Nov-2023 19:05:50 America/Boise] PHP Warning:  Undefined variable $mail_response in /home4/kooldesi/public_html/kooldev2luis/save_order.php on line 317
+[18-Nov-2023 19:08:01 America/Boise] PHP Warning:  Undefined variable $paid_amount in /home4/kooldesi/public_html/kooldev2luis/save_order.php on line 108
+[18-Nov-2023 19:08:01 America/Boise] PHP Warning:  Undefined variable $shipping_address_1 in /home4/kooldesi/public_html/kooldev2luis/save_order.php on line 108
+[18-Nov-2023 19:08:01 America/Boise] PHP Warning:  Undefined variable $shipping_address_2 in /home4/kooldesi/public_html/kooldev2luis/save_order.php on line 108
+[18-Nov-2023 19:08:46 America/Boise] PHP Warning:  Undefined variable $paid_amount in /home4/kooldesi/public_html/kooldev2luis/save_order.php on line 108
+[18-Nov-2023 19:08:46 America/Boise] PHP Warning:  Undefined variable $shipping_address_1 in /home4/kooldesi/public_html/kooldev2luis/save_order.php on line 108
+[18-Nov-2023 19:08:46 America/Boise] PHP Warning:  Undefined variable $shipping_address_2 in /home4/kooldesi/public_html/kooldev2luis/save_order.php on line 108
+[18-Nov-2023 19:08:46 America/Boise] PHP Warning:  Undefined variable $mail_response in /home4/kooldesi/public_html/kooldev2luis/save_order.php on line 316
+[18-Nov-2023 19:12:38 America/Boise] PHP Parse error:  syntax error, unexpected variable "$email" in /home4/kooldesi/public_html/kooldev2luis/save_order.php on line 30
+[18-Nov-2023 19:13:08 America/Boise] PHP Warning:  Undefined variable $mail_response in /home4/kooldesi/public_html/kooldev2luis/save_order.php on line 251
+[18-Nov-2023 19:13:33 America/Boise] PHP Warning:  Undefined variable $mail_response in /home4/kooldesi/public_html/kooldev2luis/save_order.php on line 251
+[18-Nov-2023 20:02:51 America/Boise] PHP Warning:  Undefined variable $found in /home4/kooldesi/public_html/kooldev2luis/update_prodetail.php on line 28
+[18-Nov-2023 20:19:30 America/Boise] PHP Warning:  Undefined variable $found in /home4/kooldesi/public_html/kooldev2luis/update_prodetail.php on line 28
+[19-Nov-2023 09:07:10 America/Boise] PHP Warning:  Undefined variable $found in /home4/kooldesi/public_html/kooldev2luis/update_prodetail.php on line 28
+[22-Nov-2023 05:18:11 America/Boise] PHP Warning:  Undefined array key "variantName" in /home4/kooldesi/public_html/kooldev2luis/update_prodetail.php on line 7
+[22-Nov-2023 05:18:11 America/Boise] PHP Warning:  Undefined array key "variantPrice" in /home4/kooldesi/public_html/kooldev2luis/update_prodetail.php on line 9
+[22-Nov-2023 11:21:12 America/Boise] PHP Warning:  Undefined array key "variantName" in /home4/kooldesi/public_html/kooldev2luis/update_prodetail.php on line 7
+[22-Nov-2023 11:21:12 America/Boise] PHP Warning:  Undefined array key "variantPrice" in /home4/kooldesi/public_html/kooldev2luis/update_prodetail.php on line 9
+[23-Nov-2023 18:27:47 America/Boise] PHP Warning:  Undefined array key "variantName" in /home4/kooldesi/public_html/kooldev2luis/update_prodetail.php on line 7
+[23-Nov-2023 18:27:47 America/Boise] PHP Warning:  Undefined array key "variantPrice" in /home4/kooldesi/public_html/kooldev2luis/update_prodetail.php on line 9
+[24-Nov-2023 11:12:31 America/Boise] PHP Warning:  Undefined array key "variantName" in /home4/kooldesi/public_html/kooldev2luis/update_prodetail.php on line 7
+[24-Nov-2023 11:12:31 America/Boise] PHP Warning:  Undefined array key "variantPrice" in /home4/kooldesi/public_html/kooldev2luis/update_prodetail.php on line 9
+[24-Nov-2023 11:12:31 America/Boise] PHP Warning:  Undefined array key "variantImage" in /home4/kooldesi/public_html/kooldev2luis/update_prodetail.php on line 10
+[24-Nov-2023 11:16:13 America/Boise] PHP Warning:  Undefined array key "variantImage" in /home4/kooldesi/public_html/kooldev2luis/update_prodetail.php on line 10
+[24-Nov-2023 11:21:08 America/Boise] PHP Warning:  Undefined array key "variantImage" in /home4/kooldesi/public_html/kooldev2luis/update_prodetail.php on line 10
+[24-Nov-2023 11:23:49 America/Boise] PHP Warning:  Undefined array key "variantImage" in /home4/kooldesi/public_html/kooldev2luis/update_prodetail.php on line 10
+[24-Nov-2023 11:26:11 America/Boise] PHP Warning:  Undefined array key "variantImage" in /home4/kooldesi/public_html/kooldev2luis/update_prodetail.php on line 9
+[24-Nov-2023 11:48:11 America/Boise] PHP Warning:  Undefined array key "variantImage" in /home4/kooldesi/public_html/kooldev2luis/update_prodetail.php on line 9
+[24-Nov-2023 11:50:21 America/Boise] PHP Warning:  Undefined array key "variantImage" in /home4/kooldesi/public_html/kooldev2luis/update_prodetail.php on line 9
+[24-Nov-2023 11:56:12 America/Boise] PHP Warning:  Undefined array key "variantImage" in /home4/kooldesi/public_html/kooldev2luis/update_prodetail.php on line 9
+[24-Nov-2023 12:05:45 America/Boise] PHP Warning:  Undefined array key "variantImage" in /home4/kooldesi/public_html/kooldev2luis/update_prodetail.php on line 9
+[24-Nov-2023 12:12:38 America/Boise] PHP Warning:  Undefined array key "variantImage" in /home4/kooldesi/public_html/kooldev2luis/update_prodetail.php on line 9
+[24-Nov-2023 17:50:43 America/Boise] PHP Warning:  Undefined array key "variantImage" in /home4/kooldesi/public_html/kooldev2luis/update_prodetail.php on line 9
